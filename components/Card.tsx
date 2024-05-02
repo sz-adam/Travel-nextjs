@@ -5,11 +5,11 @@ import { FaArrowRightLong } from "react-icons/fa6";
 import Image from "next/image";
 import Rating from "./Rating";
 
-interface CardProps {
+interface Props {
   data: TravelItem;
 }
 
-const Card: React.FC<CardProps> = ({ data }) => {
+const Card = ({ data }: Props) => {
   return (
     <div className="max-w-2xl mx-auto">
       <div className="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700">
@@ -37,12 +37,12 @@ const Card: React.FC<CardProps> = ({ data }) => {
             {data.description}
           </p>
           <div className="mt-4 flex flex-wrap justify-end items-center text-center ">
-            <a
-              href="#"
+            <Link
+              href={`/pages/travel/${data.location}`}
               className="text-white bg-blue-500 rounded-full px-4 py-2.5 flex items-center justify-center transition duration-300 hover:bg-blue-600"
             >
               Views <FaArrowRightLong className="ml-3 " />
-            </a>
+            </Link>
           </div>
         </div>
       </div>
