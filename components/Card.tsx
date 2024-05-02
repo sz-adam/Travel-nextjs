@@ -3,6 +3,7 @@ import { TravelItem } from "@/type/types";
 import Link from "next/link";
 import { FaArrowRightLong } from "react-icons/fa6";
 import Image from "next/image";
+import Rating from "./Rating";
 
 interface CardProps {
   data: TravelItem;
@@ -13,6 +14,9 @@ const Card: React.FC<CardProps> = ({ data }) => {
     <div className="max-w-2xl mx-auto">
       <div className="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700">
         <div className="relative overflow-hidden bg-cover bg-no-repeat ">
+          <div className="absolute top-3 left-3">
+            <Rating rating={data.rating} />
+          </div>
           <a href="#">
             <Image
               width={200}
