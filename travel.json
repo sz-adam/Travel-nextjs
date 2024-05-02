@@ -295,7 +295,7 @@
         "Chatuchak Weekend Market",
         "Khao San Road"
       ],
-      "rating": 9,
+      "rating": 4.5,
       "best_time_to_visit": "The best time to visit Bangkok is during the cool season (November-February), when the weather is pleasant and dry.",
       "expense_level": "Bangkok is a moderately priced city, with average daily costs ranging from $30 to $100, depending on accommodation and dining choices.",
       "time_zone": "Indochina Time (ICT)",
@@ -306,13 +306,13 @@
           "id": 1,
           "name": "Nina",
           "description": "Bangkok is a city of contrasts, where ancient temples stand alongside modern skyscrapers. The street food scene is unbeatable, and the locals are incredibly friendly.",
-          "rating": 9
+          "rating": 5
         },
         {
           "id": 2,
           "name": "Preecha",
           "description": "Bangkok is a city that never sleeps, with something happening around every corner. It's a sensory overload in the best possible way.",
-          "rating": 9
+          "rating": 4
         }
       ],
       "currency": "Thai Baht (THB)",
