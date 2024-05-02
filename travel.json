@@ -12,7 +12,7 @@
         "Notre-Dame Cathedral",
         "Montmartre"
       ],
-      "rating": 9,
+      "rating": 4.5,
       "best_time_to_visit": "Anytime is beautiful in Paris, but the best time to visit is April to June and September to October.",
       "expense_level": "Paris is a high-cost city, but affordable options can be found.",
       "time_zone": "Central European Time (CET)",
@@ -22,13 +22,13 @@
           "id": 1,
           "name": "Sophie",
           "description": "Paris is a mesmerizing city, full of cultural and historical sights. The food is fantastic, and there is always something interesting to do.",
-          "rating": 9
+          "rating": 5
         },
         {
           "id": 2,
           "name": "Thomas",
           "description": "Paris is truly a special place, with something enchanting around every corner. The spirit of romance is always present.",
-          "rating": 9
+          "rating": 4
         }
       ],
       "currency": "Euro (EUR)",
@@ -48,7 +48,7 @@
         "Fushimi Inari Taisha Shrine",
         "Gion District"
       ],
-      "rating": 9,
+      "rating": 4,
       "best_time_to_visit": "The best time to visit Kyoto is during the spring (March-May) and autumn (September-November) months.",
       "expense_level": "Kyoto is a moderately priced city, with average daily costs ranging from $80 to $150, depending on accommodation and dining choices.",
       "time_zone": "Japan Standard Time (JST)",
@@ -58,13 +58,13 @@
           "id": 1,
           "name": "Yuki",
           "description": "Kyoto is a wonderful city where time seems to stand still, and you can experience Japanese traditions and culture. I recommend it to everyone visiting Japan.",
-          "rating": 9
+          "rating": 4
         },
         {
           "id": 2,
           "name": "Hiro",
           "description": "Kyoto is one of my favorite places in Japan, where tranquility and beauty meet. The temples and shrines are awe-inspiring.",
-          "rating": 9
+          "rating": 4
         }
       ],
       "currency": "Japanese Yen (JPY)",
@@ -79,7 +79,7 @@
       "continent": "Europe",
       "description": "Rome, the capital of Italy, was the center of the ancient Roman Empire. It is rich in historical heritage, including the Colosseum and St. Peter's Basilica.",
       "sights": ["Colosseum", "Roman Forum", "Vatican City", "Pantheon"],
-      "rating": 9,
+      "rating": 3.5,
       "best_time_to_visit": "Rome is best visited during the spring (March-May) and autumn (September-November) months.",
       "expense_level": "Rome is a moderately priced city, with average daily costs ranging from 70-120 euros, depending on accommodation and dining choices.",
       "time_zone": "Central European Time (CET)",
@@ -89,13 +89,13 @@
           "id": 1,
           "name": "Giulia",
           "description": "Rome is the eternal city, filled with history and wonders. The atmosphere is magical, and there is always something new to discover.",
-          "rating": 9
+          "rating": 3
         },
         {
           "id": 2,
           "name": "Luca",
           "description": "Rome is like an open-air museum, where every corner tells a story. The food, the architecture, and the people make it a must-visit destination.",
-          "rating": 9
+          "rating": 4
         }
       ],
       "currency": "Euro (EUR)",
@@ -115,7 +115,7 @@
         "Times Square",
         "Empire State Building"
       ],
-      "rating": 9,
+      "rating": 5,
       "best_time_to_visit": "New York City is great year-round, but spring (April-May) and autumn (September-October) offer pleasant weather and fewer crowds.",
       "expense_level": "New York City is an expensive destination, with average daily costs ranging from $200 to $400, depending on accommodation and dining choices.",
       "time_zone": "Eastern Standard Time (EST)",
@@ -125,13 +125,13 @@
           "id": 1,
           "name": "Emily",
           "description": "New York City is the ultimate urban jungle, where every neighborhood has its own unique vibe. The energy of the city is contagious.",
-          "rating": 9
+          "rating": 5
         },
         {
           "id": 2,
           "name": "Michael",
           "description": "New York City is a place like no other, where dreams are made and cultures collide. There's never a dull moment in the city that never sleeps.",
-          "rating": 9
+          "rating": 5
         }
       ],
       "currency": "US Dollar (USD)",
@@ -151,7 +151,7 @@
         "Bondi Beach",
         "The Rocks"
       ],
-      "rating": 9,
+      "rating": 4,
       "best_time_to_visit": "Sydney is great year-round, but the best time to visit is during the Australian summer (December-February) for beach activities.",
       "expense_level": "Sydney is a moderately expensive city, with average daily costs ranging from $100 to $200, depending on accommodation and dining choices.",
       "time_zone": "Australian Eastern Standard Time (AEST)",
@@ -161,13 +161,13 @@
           "id": 1,
           "name": "Olivia",
           "description": "Sydney is a vibrant city with so much to offer, from its stunning beaches to its bustling food scene. The laid-back Aussie lifestyle is infectious.",
-          "rating": 9
+          "rating": 4
         },
         {
           "id": 2,
           "name": "Jack",
           "description": "Sydney stole my heart with its breathtaking views and friendly locals. It's the perfect blend of urban excitement and natural beauty.",
-          "rating": 9
+          "rating": 4
         }
       ],
       "currency": "Australian Dollar (AUD)",
@@ -187,7 +187,7 @@
         "V&A Waterfront",
         "Cape of Good Hope"
       ],
-      "rating": 9,
+      "rating": 4,
       "best_time_to_visit": "The best time to visit Cape Town is during the spring (September-November) or autumn (March-May) months.",
       "expense_level": "Cape Town is a relatively affordable destination, with average daily costs ranging from $50 to $100, depending on accommodation and dining choices.",
       "time_zone": "South Africa Standard Time (SAST)",
@@ -197,13 +197,13 @@
           "id": 1,
           "name": "Emma",
           "description": "Cape Town is a gem of a city, with something for everyone. From hiking up Table Mountain to exploring the Winelands, there's never a dull moment.",
-          "rating": 9
+          "rating": 4
         },
         {
           "id": 2,
           "name": "David",
           "description": "Cape Town exceeded all my expectations with its natural beauty and vibrant culture. It's a city that leaves a lasting impression.",
-          "rating": 9
+          "rating": 4
         }
       ],
       "currency": "South African Rand (ZAR)",
@@ -223,7 +223,7 @@
         "Sugarloaf Mountain",
         "Tijuca National Park"
       ],
-      "rating": 9,
+      "rating": 4,
       "best_time_to_visit": "The best time to visit Rio de Janeiro is during the Brazilian summer (December-February) for beach activities and carnival season.",
       "expense_level": "Rio de Janeiro is a moderately priced city, with average daily costs ranging from $50 to $100, depending on accommodation and dining choices.",
       "time_zone": "Brasília Time (BRT)",
@@ -233,13 +233,13 @@
           "id": 1,
           "name": "Ana",
           "description": "Rio de Janeiro is a city that captures the essence of Brazil, from its stunning beaches to its vibrant street life. It's a feast for the senses.",
-          "rating": 9
+          "rating": 4
         },
         {
           "id": 2,
           "name": "Carlos",
           "description": "Rio de Janeiro is a city of contrasts, where nature meets urban sprawl in the most beautiful way. It's impossible not to fall in love with its energy.",
-          "rating": 9
+          "rating": 4.5
         }
       ],
       "currency": "Brazilian Real (BRL)",
@@ -259,7 +259,7 @@
         "Dubai Mall",
         "Desert Safari"
       ],
-      "rating": 9,
+      "rating": 5,
       "best_time_to_visit": "The best time to visit Dubai is during the winter months (November-April) when the weather is pleasant and outdoor activities are enjoyable.",
       "expense_level": "Dubai is a high-cost city, with average daily costs ranging from $200 to $400, depending on accommodation and dining choices.",
       "time_zone": "Gulf Standard Time (GST)",
@@ -269,13 +269,13 @@
           "id": 1,
           "name": "Lina",
           "description": "Dubai is a city of superlatives, where everything seems bigger and grander. From the world's tallest building to the largest shopping mall, it's a sight to behold.",
-          "rating": 9
+          "rating": 5
         },
         {
           "id": 2,
           "name": "Ahmed",
           "description": "Dubai is a melting pot of cultures, where tradition meets modernity in the most fascinating way. It's a city that never fails to impress.",
-          "rating": 9
+          "rating": 5
         }
       ],
       "currency": "United Arab Emirates Dirham (AED)",
@@ -332,7 +332,7 @@
         "Bora Bora Lagoonarium",
         "Coral Gardens"
       ],
-      "rating": 9,
+      "rating": 5,
       "best_time_to_visit": "The best time to visit Bora Bora is during the dry season from May to October, when the weather is sunny and the water is clear for snorkeling and diving.",
       "expense_level": "Bora Bora is an expensive destination, with luxury resorts and high-end dining options.",
       "time_zone": "Tahiti Time (TAHT)",
@@ -343,13 +343,13 @@
           "id": 1,
           "name": "Emma",
           "description": "Bora Bora is like a dream come true, with its crystal-clear waters and lush landscapes. It's the perfect destination for a romantic getaway.",
-          "rating": 9
+          "rating": 5
         },
         {
           "id": 2,
           "name": "Alex",
           "description": "Bora Bora exceeded all my expectations with its natural beauty and warm hospitality. It's a place I'll never forget.",
-          "rating": 9
+          "rating": 5
         }
       ],
       "currency": "CFP Franc (XPF)",
@@ -364,7 +364,7 @@
       "continent": "Asia",
       "description": "The Maldives is a tropical paradise known for its pristine white-sand beaches, crystal-clear waters, and vibrant coral reefs.",
       "sights": ["Ari Atoll", "Male", "Baa Atoll", "Hulhumale"],
-      "rating": 9,
+      "rating": 5,
       "best_time_to_visit": "The best time to visit the Maldives is during the dry season from November to April, when the weather is sunny and there's little rainfall.",
       "expense_level": "The Maldives is an expensive destination, with luxury resorts and high-end dining options.",
       "time_zone": "Maldives Time (MVT)",
@@ -375,13 +375,13 @@
           "id": 1,
           "name": "Sophia",
           "description": "The Maldives is like a slice of paradise on earth, with its pristine beaches and turquoise lagoons. It's the perfect destination for relaxation and romance.",
-          "rating": 9
+          "rating": 5
         },
         {
           "id": 2,
           "name": "Daniel",
           "description": "The Maldives exceeded all my expectations with its natural beauty and warm hospitality. Snorkeling with the colorful marine life was a highlight of my trip.",
-          "rating": 9
+          "rating": 5
         }
       ],
       "currency": "Maldivian Rufiyaa (MVR)",
