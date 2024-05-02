@@ -16,7 +16,7 @@
       "best_time_to_visit": "Anytime is beautiful in Paris, but the best time to visit is April to June and September to October.",
       "expense_level": "Paris is a high-cost city, but affordable options can be found.",
       "time_zone": "Central European Time (CET)",
-      "image": "paris.jpg",
+      "image": "/images/paris.jpg",
       "reviews": [
         {
           "id": 1,
@@ -52,7 +52,7 @@
       "best_time_to_visit": "The best time to visit Kyoto is during the spring (March-May) and autumn (September-November) months.",
       "expense_level": "Kyoto is a moderately priced city, with average daily costs ranging from $80 to $150, depending on accommodation and dining choices.",
       "time_zone": "Japan Standard Time (JST)",
-      "image": "kyoto.jpg",
+      "image": "/images/kyoto.jpg",
       "reviews": [
         {
           "id": 1,
@@ -83,7 +83,7 @@
       "best_time_to_visit": "Rome is best visited during the spring (March-May) and autumn (September-November) months.",
       "expense_level": "Rome is a moderately priced city, with average daily costs ranging from 70-120 euros, depending on accommodation and dining choices.",
       "time_zone": "Central European Time (CET)",
-      "image": "rome.jpg",
+      "image": "/images/rome.jpg",
       "reviews": [
         {
           "id": 1,
@@ -119,7 +119,7 @@
       "best_time_to_visit": "New York City is great year-round, but spring (April-May) and autumn (September-October) offer pleasant weather and fewer crowds.",
       "expense_level": "New York City is an expensive destination, with average daily costs ranging from $200 to $400, depending on accommodation and dining choices.",
       "time_zone": "Eastern Standard Time (EST)",
-      "image": "newyorkcity.jpg",
+      "image": "/images/newyorkcity.jpg",
       "reviews": [
         {
           "id": 1,
@@ -155,7 +155,7 @@
       "best_time_to_visit": "Sydney is great year-round, but the best time to visit is during the Australian summer (December-February) for beach activities.",
       "expense_level": "Sydney is a moderately expensive city, with average daily costs ranging from $100 to $200, depending on accommodation and dining choices.",
       "time_zone": "Australian Eastern Standard Time (AEST)",
-      "image": "sydney.jpg",
+      "image": "/images/sydney.jpg",
       "reviews": [
         {
           "id": 1,
@@ -191,7 +191,7 @@
       "best_time_to_visit": "The best time to visit Cape Town is during the spring (September-November) or autumn (March-May) months.",
       "expense_level": "Cape Town is a relatively affordable destination, with average daily costs ranging from $50 to $100, depending on accommodation and dining choices.",
       "time_zone": "South Africa Standard Time (SAST)",
-      "image": "capetown.jpg",
+      "image": "/images/capetown.jpg",
       "reviews": [
         {
           "id": 1,
@@ -227,7 +227,7 @@
       "best_time_to_visit": "The best time to visit Rio de Janeiro is during the Brazilian summer (December-February) for beach activities and carnival season.",
       "expense_level": "Rio de Janeiro is a moderately priced city, with average daily costs ranging from $50 to $100, depending on accommodation and dining choices.",
       "time_zone": "Brasília Time (BRT)",
-      "image": "riodejaneiro.jpg",
+      "image": "/images/riodejaneiro.jpg",
       "reviews": [
         {
           "id": 1,
@@ -263,7 +263,7 @@
       "best_time_to_visit": "The best time to visit Dubai is during the winter months (November-April) when the weather is pleasant and outdoor activities are enjoyable.",
       "expense_level": "Dubai is a high-cost city, with average daily costs ranging from $200 to $400, depending on accommodation and dining choices.",
       "time_zone": "Gulf Standard Time (GST)",
-      "image": "dubai.jpg",
+      "image": "/images/dubai.jpg",
       "reviews": [
         {
           "id": 1,
@@ -299,7 +299,7 @@
       "best_time_to_visit": "The best time to visit Bangkok is during the cool season (November-February), when the weather is pleasant and dry.",
       "expense_level": "Bangkok is a moderately priced city, with average daily costs ranging from $30 to $100, depending on accommodation and dining choices.",
       "time_zone": "Indochina Time (ICT)",
-      "image": "bangkok.jpg",
+      "image": "/images/bangkok.jpg",
 
       "reviews": [
         {
@@ -336,7 +336,7 @@
       "best_time_to_visit": "The best time to visit Bora Bora is during the dry season from May to October, when the weather is sunny and the water is clear for snorkeling and diving.",
       "expense_level": "Bora Bora is an expensive destination, with luxury resorts and high-end dining options.",
       "time_zone": "Tahiti Time (TAHT)",
-      "image": "borabora.jpg",
+      "image": "/images/borabora.jpg",
 
       "reviews": [
         {
@@ -368,7 +368,7 @@
       "best_time_to_visit": "The best time to visit the Maldives is during the dry season from November to April, when the weather is sunny and there's little rainfall.",
       "expense_level": "The Maldives is an expensive destination, with luxury resorts and high-end dining options.",
       "time_zone": "Maldives Time (MVT)",
-      "image": "maldiv.jpg",
+      "image": "/images/maldiv.jpg",
 
       "reviews": [
         {
