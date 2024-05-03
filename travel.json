@@ -1,6 +1,7 @@
  [
     {
       "id": 1,
+      "name": "Paris",
       "location": "Paris",
       "category": "City",
       "country": "France",
@@ -37,6 +38,7 @@
     },
     {
       "id": 2,
+      "name": "Kyoto",
       "location": "Kyoto",
       "category": "City",
       "country": "Japan",
@@ -73,6 +75,7 @@
     },
     {
       "id": 3,
+      "name": "Rome",
       "location": "Rome",
       "category": "City",
       "country": "Italy",
@@ -104,7 +107,8 @@
     },
     {
       "id": 4,
-      "location": "New York City",
+      "name": "New York City",
+      "location": "New_York_City",
       "category": "City",
       "country": "United States",
       "continent": "North America",
@@ -140,6 +144,7 @@
     },
     {
       "id": 5,
+      "name": "Sydney",
       "location": "Sydney",
       "category": "City",
       "country": "Australia",
@@ -176,7 +181,8 @@
     },
     {
       "id": 6,
-      "location": "Cape Town",
+      "name": "Cape Town",
+      "location": "Cape_Town",
       "category": "City",
       "country": "South Africa",
       "continent": "Africa",
@@ -212,7 +218,8 @@
     },
     {
       "id": 7,
-      "location": "Rio de Janeiro",
+      "name": "Rio de Janeiro",
+      "location": "Rio_de_Janeiro",
       "category": "City",
       "country": "Brazil",
       "continent": "South America",
@@ -248,6 +255,7 @@
     },
     {
       "id": 8,
+      "name": "Dubai",
       "location": "Dubai",
       "category": "City",
       "country": "United Arab Emirates",
@@ -284,6 +292,7 @@
     },
     {
       "id": 9,
+      "name": "Bangkok",
       "location": "Bangkok",
       "category": "City",
       "country": "Thailand",
@@ -321,7 +330,8 @@
     },
     {
       "id": 10,
-      "location": "Bora Bora",
+      "name": "Bora Bora",
+      "location": "Bora_Bora",
       "category": "City",
       "country": "French Polynesia",
       "continent": "Oceania",
