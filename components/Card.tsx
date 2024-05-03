@@ -30,7 +30,7 @@ const Card = ({ data }: Props) => {
         <div className="p-5">
           <a href="#">
             <h5 className="text-gray-900 font-bold text-2xl tracking-tight mb-2 dark:text-white">
-              {data.location}
+              {data.name}
             </h5>
           </a>
           <p className="font-normal text-gray-700 mb-3 dark:text-gray-400 overflow-hidden whitespace-nowrap overflow-ellipsis">
