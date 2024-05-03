@@ -1,4 +1,5 @@
-import Travel from "./pages/travel/page";
+import Travel from "./travel/page";
+
 
 
 export default function Home() {

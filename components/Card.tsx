@@ -38,7 +38,7 @@ const Card = ({ data }: Props) => {
           </p>
           <div className="mt-4 flex flex-wrap justify-end items-center text-center ">
             <Link
-              href={`/pages/travel/${data.location}`}
+              href={`/travel/${data.location}`}
               className="text-white bg-blue-500 rounded-full px-4 py-2.5 flex items-center justify-center transition duration-300 hover:bg-blue-600"
             >
               Views <FaArrowRightLong className="ml-3 " />

@@ -1,6 +1,6 @@
 import Card from "@/components/Card";
 import ImageBg from "@/components/ImageBg";
-import TravelData from "../../../travel.json";
+import TravelData from "../../travel.json";
 import { TravelItem } from "@/type/types";
 
 function Travel() {
