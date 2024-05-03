@@ -7,18 +7,18 @@ interface RatingProps {
   rating: number;
 }
 
-const Rating: FC<RatingProps> = ({ rating }) => {
+const Rating = ({ rating }: RatingProps) => {
   // Létrehozunk egy tömböt 5 elemmel
   const ratingStars = Array.from({ length: 5 }, (_, index) => {
-    let number = index + 0.5; // fél csillag 
+    let number = index + 0.5; // fél csillag
     return (
-      <span key={index}>        
-        {rating >= index + 1 ? (// ha az aktuális index > = 1-el akkor teljes csillag 
+      <span key={index}>
+        {rating >= index + 1 ? ( // ha az aktuális index > = 1-el akkor teljes csillag
           <FaStar />
-        ) : rating >= number ? (// ha az aktuális index > = 0.5-el akkor teljes csillag 
+        ) : rating >= number ? ( // ha az aktuális index > = 0.5-el akkor teljes csillag
           <FaStarHalfAlt />
         ) : (
-          <AiOutlineStar />// üres csillagot teszünk
+          <AiOutlineStar /> // üres csillagot teszünk
         )}
       </span>
     );
