@@ -1,6 +1,7 @@
  
   export interface TravelItem {
     id: number;
+    name?: string;
     location: string;
     category: string;
     country: string;
