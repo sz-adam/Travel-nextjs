@@ -6,7 +6,7 @@ interface Props {
 }
 const Reviews = ({ newItem }: Props) => {
   return (
-    <section className=" px-4 py-12 md:py-24 w-full z-50  overflow-scroll">
+    <section className=" px-4 py-12 md:py-24 w-full z-50 ">
       {newItem?.reviews.map((reviews) => (
         <div key={reviews.id} className="max-w-screen-xl mx-auto m-2 ">
           <div className="flex flex-col space-y-4 md:space-y-0 md:flex-row md:space-x-4 relative ">
