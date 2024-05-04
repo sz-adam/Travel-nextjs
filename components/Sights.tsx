@@ -1,9 +1,20 @@
-import React from 'react'
+import { TravelItem } from "@/type/types";
+import React from "react";
 
-const Sights = () => {
-  return (
-    <div className='p-64'>Sights</div>
-  )
+interface Props {
+  newItem: TravelItem | undefined;
 }
 
-export default Sights
+const Sights = ({ newItem }: Props) => {
+  return (
+    <>
+      {newItem?.sights?.map((sights, index) => (
+        <div key={index} className="flex items-center justify-center">
+          <p className="list-disc my-5">{sights}</p>
+        </div>
+      ))}
+    </>
+  );
+};
+
+export default Sights;
