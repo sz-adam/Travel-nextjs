@@ -8,7 +8,6 @@ interface Props {
 }
 
 const Description = ({ newItem }: Props) => {
-  console.log(newItem);
   return (
     <div className=" px-4 py-8">
       <div className="flex justify-between items-center mb-4">
