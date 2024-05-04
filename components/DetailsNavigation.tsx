@@ -14,7 +14,7 @@ const DetailsNavigation = ({ newItem }: Props) => {
   const [currentTab, setCurrentTab] = useState("Description");
   return (
     <>
-      <nav className="absolute top-0 left-0 right-0 flex justify-between items-center p-4 text-white">
+      <nav className="flex justify-between items-center p-2 text-white ">
         <button
           className={` ${currentTab === "Description" ? "border-b" : ""}`}
           onClick={() => setCurrentTab("Description")}
