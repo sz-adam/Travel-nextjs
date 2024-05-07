@@ -17,7 +17,7 @@ const Card = ({ data }: Props) => {
           <div className="absolute top-3 left-3">
             <Rating rating={data.rating} />
           </div>
-          <a href="#">
+          <div >
             <Image
               width={200}
               height={300}
@@ -25,14 +25,14 @@ const Card = ({ data }: Props) => {
               src={data.image}
               alt={data.location}
             />
-          </a>
+          </div>
         </div>
         <div className="p-5">
-          <a href="#">
+          <p >
             <h5 className="text-gray-900 font-bold text-2xl tracking-tight mb-2 dark:text-white">
               {data.name}
             </h5>
-          </a>
+          </p>
           <p className="font-normal text-gray-700 mb-3 dark:text-gray-400 overflow-hidden whitespace-nowrap overflow-ellipsis">
             {data.description}
           </p>
