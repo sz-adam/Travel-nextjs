@@ -24,7 +24,7 @@ const CategoryContext = createContext<CategoryContextType>({
 });
 
 const CategoryContextProvider = ({ children }: CategoryProviderProps) => {
-  const [categories, setCategories] = useState<TravelItem[]>([])
+  const [categories, setCategories] = useState<TravelItem[]>([]);
 
   return (
     <CategoryContext.Provider value={{ categories, setCategories }}>
@@ -33,4 +33,4 @@ const CategoryContextProvider = ({ children }: CategoryProviderProps) => {
   );
 };
 
-export {CategoryContext, CategoryContextProvider}
+export { CategoryContext, CategoryContextProvider };
