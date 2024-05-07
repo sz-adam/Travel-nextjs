@@ -12,7 +12,7 @@ const FilterToggle = () => {
   };
   return (
     <div>
-      <IoFilterOutline onClick={handleFilterToggle} className="text-2xl m-2 z-10"/>
+      <IoFilterOutline onClick={handleFilterToggle} className="text-2xl m-2 z-10 cursor-pointer"/>
       {showFilter && (
         <>
           <div className="fixed top-0 left-0 w-full h-full z-40"></div>
